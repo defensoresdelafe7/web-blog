@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<!--Container-->
+<div class="md:pt-20">
+  <div class="shadow-xl rounded-lg">
+    <div style="background-image: url('{{site.baseurl}}/assets/images/{{ page.image }}')" class="h-44 bg-gray-200 bg-cover bg-center flex items-center justify-center bg-opacity-75"> 
+      <p class="text-gray-800 bg-white border px-1 font-bold text-4xl">{{ page.title }}</p>
+    </div>
+  </div>
+  <div class="container mx-auto w-full text-gray-800 leading-normal">
+    <!--Post Content-->
+    <article class="max-w-none prose prose-lg xl:prose-xl py-4">
+      {{ content }}
+    </article>
+  </div>
+</div>

@@ -1,12 +1,16 @@
 ---
 ---
-
-{% include header.html %}
-
-<main
-  class="bg-indigo-500 flex h-screen items-center justify-center w-full"
->
-  {{ content }}
-</main>
-
-{% include footer.html %}
+<!DOCTYPE html>
+<html lang="es-MX">
+  {% include header.html %}
+  <body>
+    {% include sidebar.html %}
+    {{ content }}
+    <div class="px-4">
+      {% include subscribe.html %}
+    </div>
+    {% unless page.url == '/contacto.html' %}
+      {% include footer.html %}
+    {% endunless %}
+  </body>
+</html>
