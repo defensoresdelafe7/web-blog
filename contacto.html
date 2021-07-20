@@ -2,4 +2,47 @@
 layout: default
 title: Contacto
 ---
+<section class="text-gray-600 body-font">
+  <div class="container px-8 md:px-16 mx-auto flex flex-wrap">
+    <div class="w-full">
+      <div class="py-4"></div>
+      <div class="px-8 flex justify-center">
+        <img src="{{site.baseurl}}/assets/images/logo.png" class="h-56 object-contain px-4 pb-2"/>
+      </div>
+    </div>
+    <div class="w-full pt-4">
+     <div class="flex flex-row justify-between flex-wrap">
+        <h2 class="text-3xl font-semibold text-left text-gray-800 dark:text-white">Contáctanos</h2>
+        <div class="py-4 md:py-0">
+          {% include social.html %}
+        </div>
+     </div>
+      <form action="https://formspree.io/f/xnqlbgql" method="POST" name="contact_form" >
+        <div class="mt-6 mx-1">
+            <div class="items-center">
+                <div class="w-full">
+                    <label class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-200">Nombre</label>
+    
+                    <input name="name" class="block w-full px-4 py-2 text-gray-700 bg-white border border-gray-300 rounded-md dark:bg-gray-800 dark:text-gray-300 dark:border-gray-600 focus:border-blue-500 dark:focus:border-blue-500 focus:outline-none focus:ring" type="text" autocomplete="off">
+                </div>
+                <div class="py-2"></div>
 
+                <div class="w-full mt-4 md:mt-0">
+                    <label class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-200">E-mail</label>
+    
+                    <input type="email" name="_replyto" class="block w-full px-4 py-2 text-gray-700 bg-white border border-gray-300 rounded-md dark:bg-gray-800 dark:text-gray-300 dark:border-gray-600 focus:border-blue-500 dark:focus:border-blue-500 focus:outline-none focus:ring" autocomplete="off">
+                </div>
+                <div class="py-2"></div>
+
+                <label class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-200">Mensaje</label>
+    
+                <textarea name="message" class="block w-full h-40 px-4 py-2 text-gray-700 bg-white border border-gray-300 rounded-md dark:bg-gray-800 dark:text-gray-300 dark:border-gray-600 focus:border-blue-500 dark:focus:border-blue-500 focus:outline-none focus:ring" autofill="off"></textarea>
+            </div>
+    
+            <div class="flex justify-center mt-6">
+                <button type="submit" onclick="submitForm()" class="px-4 py-2 text-white transition-colors duration-200 transform bg-gray-700 rounded-md hover:bg-gray-600 focus:outline-none focus:bg-gray-600">Enviar Mensaje</button>
+            </div>
+        </div>
+      </form>
+  </div>
+</section>

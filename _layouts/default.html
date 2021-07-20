@@ -2,15 +2,11 @@
 ---
 <!DOCTYPE html>
 <html lang="es-MX">
-  {% include header.html %}
-  <body>
+  {% include head.html %}
+  <body class="bg-gray-200 font-sans leading-normal tracking-normal">
     {% include sidebar.html %}
     {{ content }}
-    <div class="px-4">
-      {% include subscribe.html %}
-    </div>
-    {% unless page.url == '/contacto.html' %}
-      {% include footer.html %}
-    {% endunless %}
+    {% include subscribe.html %}
+    {% include footer.html %}
   </body>
 </html>

@@ -3,13 +3,16 @@ layout: default
 ---
 
 <!--Container-->
-<div class="md:pt-20">
-  <img src="{{site.baseurl}}/assets/images/{{ page.image }}" class="w-full object-cover lg:rounded m-1" style="height: 28em;"/>
-  <div class="max-w-prose mx-auto">
+<div class="bg-white">
+  {% if page.url_image == true %}
+    <img src="{{ page.image | relative_url }}" class="w-full object-cover" style="height: 28em;"/>
+  {% else %}
+    <img src="{{site.baseurl}}/assets/images/{{ page.image }}" class="w-full object-cover" style="height: 28em;"/>
+  {% endif %}
+  <div class="py-2 md:py-6"></div>   
+  <div class="max-w-prose mx-auto p-4 md:p-0">
     <div class="w-full text-gray-800 leading-normal">
-      <div class="py-4"></div>   
-      <!--Post Content-->
-      <article class="max-w-prose prose prose-lg">
+      <article class="max-w-prose prose prose-md md:prose-lg  lg:prose-xl">
         <div class="font-serif py-0">
           <h1 class="inline">{{ page.title }}</h1>
           <div class="py-1"></div>   
@@ -20,59 +23,9 @@ layout: default
           {{ content }}
         </div>
       </article>
-
-      <!--blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Example of blockquote - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.</blockquote--->
-      <!--/ Post Content-->
-
     </div>
-
-    <!--Tags ->
-    <div class="text-base md:text-sm text-gray-500 px-4 py-6">
-      Tags: <a href="#" class="text-base md:text-sm text-green-500 no-underline hover:underline">Link</a> . <a href="#" class="text-base md:text-sm text-green-500 no-underline hover:underline">Link</a>
-    </div-->
-
     <!--Divider-->
     <hr class="border-b-2 border-gray-400 mb-8 mx-4">
-
     <br>
-
-    <!--Author-->
-    <!--div class="flex w-full items-center font-sans px-4 py-12">
-      <img class="w-10 h-10 rounded-full mr-4" src="http://i.pravatar.cc/300" alt="Avatar of Author">
-      <div class="flex-1 px-2">
-        <p class="text-base font-bold text-base md:text-xl leading-none mb-2">Jo Bloggerson</p>
-        <p class="text-gray-600 text-xs md:text-base">Minimal Blog Tailwind CSS template by <a class="text-green-500 no-underline hover:underline" href="https://www.tailwindtoolbox.com">TailwindToolbox.com</a></p>
-      </div>
-      <div class="justify-end">
-        <button class="bg-transparent border border-gray-500 hover:border-green-500 text-xs text-gray-500 hover:text-green-500 font-bold py-2 px-4 rounded-full">Read More</button>
-      </div>
-    </div-->
-    <!--/Author-->
-
-    <!--Divider->
-    <hr class="border-b-2 border-gray-400 mb-8 mx-4"--->
-
-    <!--Next & Prev Links->
-    <div class="font-sans flex justify-between content-center px-4 pb-12">
-      <div class="text-left">
-        <span class="text-xs md:text-sm font-normal text-gray-600">&lt; Previous Post</span><br>
-        <p><a href="#" class="break-normal text-base md:text-sm text-green-500 font-bold no-underline hover:underline">Blog title</a></p>
-      </div>
-      <div class="text-right">
-        <span class="text-xs md:text-sm font-normal text-gray-600">Next Post &gt;</span><br>
-        <p><a href="#" class="break-normal text-base md:text-sm text-green-500 font-bold no-underline hover:underline">Blog title</a></p>
-      </div>
-    </div>
-
-
-    <!--/Next & Prev Links---->
-
   </div>
 </div>
-  <!--/container-->
-
-  <!---style>
-    h2 {
-      display: inline;
-    }
-  </style-->
