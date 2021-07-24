@@ -12,6 +12,7 @@ fields:
 - type: text
   name: author
   label: author
+  default: Defensores de la Fe
 - type: list
   name: categories
   label: categories
