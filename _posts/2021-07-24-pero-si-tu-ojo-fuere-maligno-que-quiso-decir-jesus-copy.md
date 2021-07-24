@@ -2,8 +2,12 @@
 layout: video_post
 title: "¿Es Jesús Dios?"
 author: defensores
-categories: []
-tags: []
+categories:
+- biblia
+- unicidad
+tags:
+- sectas
+- unicidad
 video_id: OWTcohq8JJk
 
 ---
