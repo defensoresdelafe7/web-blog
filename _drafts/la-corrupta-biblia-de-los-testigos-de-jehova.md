@@ -3,9 +3,14 @@ layout: La corrupta "Biblia" de los testigos de Jehová
 title: La corrupta "Biblia" de los testigos de Jehová
 author: Defensores de la Fe
 categories: []
-tags: []
+tags:
+- Traducción del Nuevo Mundo
+- "-"
+- Sectas
+- "-"
+- Testigos de Jehová
 url_image: false
-image: ''
+image: "/uploads/testigos_biblia.jpg"
 
 ---
 La llamada **Traducción del Nuevo Mundo de las Santas Escrituras** es la “Biblia” oficial de la _Watchtower_, la organización de los “Testigos de Jehová” (TdJ).  
