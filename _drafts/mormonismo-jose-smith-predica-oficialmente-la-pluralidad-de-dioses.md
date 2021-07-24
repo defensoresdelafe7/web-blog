@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Defensores de la Fe
-tags: []
+tags:
+- mormonismo
 title: 'Mormonismo: José Smith predica oficialmente la pluralidad de Dioses'
 categories: []
 url_image: false
