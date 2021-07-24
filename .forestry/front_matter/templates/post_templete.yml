@@ -14,14 +14,15 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: list
-  name: tags
-  label: tags
 - type: boolean
   name: url_image
   label: url_image
 - type: file
   name: image
   label: image
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - _posts/la-corrupta-biblia-de-los-testigos-de-jehova.md
