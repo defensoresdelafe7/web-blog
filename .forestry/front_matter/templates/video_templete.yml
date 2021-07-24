@@ -14,9 +14,10 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: list
-  name: tags
-  label: tags
 - type: text
   name: video_id
   label: video_id
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
