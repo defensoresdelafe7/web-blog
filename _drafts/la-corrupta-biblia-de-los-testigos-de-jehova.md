@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: La corrupta "Biblia" de los testigos de Jehová
 author: Defensores de la Fe
 categories: []
