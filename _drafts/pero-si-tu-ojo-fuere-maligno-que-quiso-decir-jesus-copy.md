@@ -1,14 +1,15 @@
 ---
 layout: video_post
-title: Pero si tu ojo fuere maligno… — ¿Qué quiso decir Jesús?-(copy)
+title: "¿Es Jesús Dios?"
 author: defensores
 categories:
 - Video
 tags:
 - Unicidad
-video_id: 49VRF2aCggI
+video_id: OWTcohq8JJk
 
 ---
-Video Premiere: Sábado 9:30 am (hora estándar del Pacífico)
-Una explicación bíblica, considerando las raíces judías de Jesús, del significado de estas escrituras:
-“La lámpara del cuerpo es el ojo; así que, si tu ojo es bueno, todo tu cuerpo estará lleno de luz; pero si tu ojo es maligno, todo tu cuerpo estará en tinieblas. Así que, si la luz que en ti hay es tinieblas, ¿cuántas no serán las mismas tinieblas?” (Matthew 6:22–23)
+La Biblia de los _testigos de Jehová_ adultera **2 Corintios 5:19** para despojar a Jesús de Su deidad. Este video demuestra, con base en el texto griego original, que la llamada _"Traducción del Nuevo Mundo de las Santas Escrituras"_ publicada por la Watchtower es una falsificación horrenda.
+
+  
+[#testigosdeJehova](https://web.facebook.com/hashtag/testigosdejehova?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#Watchtower](https://web.facebook.com/hashtag/watchtower?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#LaAtalaya](https://web.facebook.com/hashtag/laatalaya?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#TdJ](https://web.facebook.com/hashtag/tdj?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#sectas](https://web.facebook.com/hashtag/sectas?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#traduccióndelNuevoMundo](https://web.facebook.com/hashtag/traducci%C3%B3ndelnuevomundo?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#defensoresdelafe](https://web.facebook.com/hashtag/defensoresdelafe?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#JesúsEsDios](https://web.facebook.com/hashtag/jes%C3%BAsesdios?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#CristoEsDios](https://web.facebook.com/hashtag/cristoesdios?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R) [#deidaddeJesús](https://web.facebook.com/hashtag/deidaddejes%C3%BAs?__eep__=6&__cft__\[0\]=AZXarne-glge8CFwLVMOXldQtwkWxHTiRvzfjDT2lpkrH60t9Ur_BzRrhhXLPeXx6rUJAR_NEpJqKZZ9rIwiRo3auDfs9gPeObeWZNKTdPjbmMx1pFxZkaSFIWM58d7lYh82-M511sQSp4bH5FX-w3cdzYqd5ojDFSHrf8d8lz_rcqlh2GRqNa2VIZLm-46BL3A&__tn__=*NK-R)
