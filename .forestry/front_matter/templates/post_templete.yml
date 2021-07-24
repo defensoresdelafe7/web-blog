@@ -23,3 +23,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/la-corrupta-biblia-de-los-testigos-de-jehova.md
