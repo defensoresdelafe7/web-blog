@@ -7,11 +7,15 @@ tags:
 title: ¿Falta una "s" en "Jesu-Cristo"?
 categories: []
 url_image: false
+upload_image: true
 image: "/uploads/el-nombre-de-jesus-1063.jpg"
 
 ---
-### ¿Falta una "s" en "Jesu-Cristo"?
+Cuando alguien dice que "**el diablo cambió Jesús por Jesu**" no saben lo que están diciendo.
 
+#### ¿Falta una "s" en "Jesu-Cristo"? 
+
+Por ejemplo, veamos
 > **Mateo 1:21**  
 > _Y dará a luz un hijo, y llamarás su nombre **Jesús**, porque él salvará a su pueblo de sus pecados._  
 >   

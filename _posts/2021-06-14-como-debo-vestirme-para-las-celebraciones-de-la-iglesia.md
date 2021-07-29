@@ -8,6 +8,7 @@ tags:
 title: "¿Cómo debo vestirme para las celebraciones de la iglesia?"
 categories: []
 url_image: false
+upload_image: true
 image: "/uploads/flower-crowns-floral-crowns-wedding-hairstyle-ideas-gold-flower-crown.jpg"
 
 ---
@@ -18,7 +19,6 @@ Pero _convertir las celebraciones de la iglesia (convenciones, eventos juveniles
   
 Vístete de tal manera que tu vestimenta no incomode a los pobres de la congregación ni ponga una carga financiera sobre ellos para tratar de estrenar ropa nueva cuando están posiblemente pasando tiempos de necesidad.
 
-                                     ![](http://1.bp.blogspot.com/-jsexuDAw4Fw/VnxpOrCh43I/AAAAAAAACm0/fAB52eg_VsA/s320/lujoso-vestido-lentejuelas-gold-black.jpg =137x320)
 
 #### Si hemos de glorificar a Dios, hagámoslo en todo.
 

@@ -3,7 +3,7 @@ layout: video_post
 title:  "Pero si tu ojo fuere maligno… — ¿Qué quiso decir Jesús?"
 author: defensores
 categories: [ Video ]
-tags: [ Unicidad ]
+tags: [ biblia ]
 video_id: 49VRF2aCggI
 ---
 

@@ -5,11 +5,10 @@ author: Defensores de la Fe
 categories: []
 tags:
 - Traducción del Nuevo Mundo
-- "-"
 - Sectas
-- "-"
 - Testigos de Jehová
 url_image: false
+upload_image: true
 image: "/uploads/testigos_biblia.jpg"
 
 ---

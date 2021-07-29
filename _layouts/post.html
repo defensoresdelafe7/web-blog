@@ -6,15 +6,17 @@ layout: default
 <div class="bg-white">
   {% if page.url_image == true %}
     <img src="{{ page.image | relative_url }}" class="w-full object-cover" style="height: 28em;"/>
+  {% elsif post.upload_image == true  %}
+    <img src="{{ page.image }}" class="w-full object-cover" style="height: 28em;"/>
   {% else %}
     <img src="{{site.baseurl}}/assets/images/{{ page.image }}" class="w-full object-cover" style="height: 28em;"/>
   {% endif %}
   <div class="py-2 md:py-6"></div>   
   <div class="max-w-prose mx-auto p-4 md:p-0">
     <div class="w-full text-gray-800 leading-normal">
-      <article class="max-w-prose prose prose-md md:prose-lg  lg:prose-xl">
+      <article class=" prose prose-md md:prose-lg ">
         <div class="font-serif py-0">
-          <h1 class="inline">{{ page.title }}</h1>
+          <h1 class="inline w-full break-words">{{ page.title }}</h1>
           <div class="py-1"></div>   
           <p class="inline text-sm md:text-base font-normal text-gray-600">Publicado el {{ page.date | date: "%-d %B %Y" }}</p>
         </div>

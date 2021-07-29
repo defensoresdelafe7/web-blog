@@ -7,6 +7,7 @@ tags:
 title: ¿Es la iglesia el "Israel de Dios"?
 categories: []
 url_image: false
+upload_image: true
 image: "/uploads/israel.jpg"
 
 ---

@@ -5,6 +5,7 @@ title: "¿Reconoceremos a nuestros familiares en el reino de los cielos?"
 author: Defensores de la Fe
 categories: []
 url_image: false
+upload_image: true
 image: "/uploads/family-in-heaven.jpg"
 
 ---
